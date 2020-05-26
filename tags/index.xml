@@ -7,9 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2012. Some rights reserved.</copyright>
+    <lastBuildDate>Tue, 26 May 2020 08:29:18 -0300</lastBuildDate>
     
 	<atom:link href="https://diegoneves.eti.br/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://diegoneves.eti.br/tags/devops/</link>
+      <pubDate>Tue, 26 May 2020 08:29:18 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>https://diegoneves.eti.br/tags/hugo/</link>
+      <pubDate>Tue, 26 May 2020 08:29:18 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://diegoneves.eti.br/tags/linux/</link>
+      <pubDate>Tue, 26 May 2020 08:29:18 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>portugues</title>
+      <link>https://diegoneves.eti.br/tags/portugues/</link>
+      <pubDate>Tue, 26 May 2020 08:29:18 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/tags/portugues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Livre</title>
+      <link>https://diegoneves.eti.br/tags/software-livre/</link>
+      <pubDate>Tue, 26 May 2020 08:29:18 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/tags/software-livre/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
