@@ -13,21 +13,21 @@
     
     
     <item>
+      <title>License</title>
+      <link>https://diegoneves.eti.br/license/</link>
+      <pubDate>Tue, 26 May 2020 09:26:50 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/license/</guid>
+      <description>&amp;ldquo;THE BEER-WARE LICENSE&amp;rdquo; (Revision 42): phk@FreeBSD.ORG wrote this file. As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp</description>
+    </item>
+    
+    <item>
       <title>Hello World</title>
       <link>https://diegoneves.eti.br/posts/hello-world/</link>
       <pubDate>Tue, 26 May 2020 08:29:18 -0300</pubDate>
       
       <guid>https://diegoneves.eti.br/posts/hello-world/</guid>
       <description>Sim, esse é um novo site. Eu mantinha um wordpress, para escrever, e como não estava escrevendo a muito tempo, perdia o tempo mantendo o wordpress atualizado e seguro em vez de escrever algo. Resolvi dar uma pesquisada em alguns geradores de site estático e encontrei o Hugo e resolvi testar baseado no site do Gomex. Agora como não vou precisar mais manter a plataforma, prometo tentar escrever mais, falando sempre sobre Software Livre, Linux e sobre DevOps que é o que tenho estudado atualmente.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://diegoneves.eti.br/license/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://diegoneves.eti.br/license/</guid>
-      <description>&amp;ldquo;THE BEER-WARE LICENSE&amp;rdquo; (Revision 42): phk@FreeBSD.ORG wrote this file. As long as you retain this notice you can do whatever you want with this stuff. If we meet some day, and you think this stuff is worth it, you can buy me a beer in return Poul-Henning Kamp</description>
     </item>
     
   </channel>
