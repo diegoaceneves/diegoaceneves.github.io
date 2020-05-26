@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>DevOps on My New Site</title>
+    <title>DevOps on Deploying a better new world</title>
     <link>https://diegoneves.eti.br/tags/devops/</link>
-    <description>Recent content in DevOps on My New Site</description>
+    <description>Recent content in DevOps on Deploying a better new world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy; 2012. Some rights reserved.</copyright>
     <lastBuildDate>Tue, 26 May 2020 08:29:18 -0300</lastBuildDate>
     
 	<atom:link href="https://diegoneves.eti.br/tags/devops/index.xml" rel="self" type="application/rss+xml" />
