@@ -6,7 +6,7 @@
     <description>Recent content in Categories on Deploying a better new world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 26 May 2020 08:29:18 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2020 17:02:19 -0300</lastBuildDate>
     
 	<atom:link href="https://diegoneves.eti.br/categories/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>DevOps</title>
       <link>https://diegoneves.eti.br/categories/devops/</link>
-      <pubDate>Tue, 26 May 2020 08:29:18 -0300</pubDate>
+      <pubDate>Thu, 04 Jun 2020 17:02:19 -0300</pubDate>
       
       <guid>https://diegoneves.eti.br/categories/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portugues</title>
+      <link>https://diegoneves.eti.br/categories/portugues/</link>
+      <pubDate>Thu, 04 Jun 2020 17:02:19 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/categories/portugues/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sysadmin</title>
+      <link>https://diegoneves.eti.br/categories/sysadmin/</link>
+      <pubDate>Thu, 04 Jun 2020 17:02:19 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/categories/sysadmin/</guid>
       <description></description>
     </item>
     
@@ -26,15 +44,6 @@
       <pubDate>Tue, 26 May 2020 08:29:18 -0300</pubDate>
       
       <guid>https://diegoneves.eti.br/categories/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Portugues</title>
-      <link>https://diegoneves.eti.br/categories/portugues/</link>
-      <pubDate>Tue, 26 May 2020 08:29:18 -0300</pubDate>
-      
-      <guid>https://diegoneves.eti.br/categories/portugues/</guid>
       <description></description>
     </item>
     
