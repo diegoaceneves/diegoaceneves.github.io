@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Deploying a better new world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2020 17:02:19 -0300</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2020 11:22:24 -0300</lastBuildDate>
     
 	<atom:link href="https://diegoneves.eti.br/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>IRPF</title>
+      <link>https://diegoneves.eti.br/tags/irpf/</link>
+      <pubDate>Thu, 18 Jun 2020 11:22:24 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/tags/irpf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://diegoneves.eti.br/tags/java/</link>
+      <pubDate>Thu, 18 Jun 2020 11:22:24 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://diegoneves.eti.br/tags/linux/</link>
+      <pubDate>Thu, 18 Jun 2020 11:22:24 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/tags/linux/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DevOps</title>
@@ -26,15 +53,6 @@
       <pubDate>Thu, 04 Jun 2020 17:02:19 -0300</pubDate>
       
       <guid>https://diegoneves.eti.br/tags/kernel/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://diegoneves.eti.br/tags/linux/</link>
-      <pubDate>Thu, 04 Jun 2020 17:02:19 -0300</pubDate>
-      
-      <guid>https://diegoneves.eti.br/tags/linux/</guid>
       <description></description>
     </item>
     
