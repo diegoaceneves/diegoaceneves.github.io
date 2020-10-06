@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>English on Deploying a better new world</title>
+    <link>https://diegoneves.eti.br/categories/english/</link>
+    <description>Recent content in English on Deploying a better new world</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 06 Oct 2020 10:05:15 -0300</lastBuildDate><atom:link href="https://diegoneves.eti.br/categories/english/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Solving Docker Network Problems in Fedora</title>
+      <link>https://diegoneves.eti.br/posts/solving-docker-network-problems-in-fedora/</link>
+      <pubDate>Tue, 06 Oct 2020 10:05:15 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/posts/solving-docker-network-problems-in-fedora/</guid>
+      <description>After more than 12 years using Debian as a workstation, I decided to migrate to Fedora a little over 6 months ago, when I changed the HD of laptop for an SSD, The first reasons for the decision to test Fedora was the native support for Luks to encrypt the disk during installation and the desire to learn a little more about RPM packages and the ecosystem from Red Hat.</description>
+    </item>
+    
+  </channel>
+</rss>

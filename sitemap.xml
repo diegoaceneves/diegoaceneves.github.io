@@ -23,6 +23,16 @@
   </url>
   
   <url>
+    <loc>https://diegoneves.eti.br/tags/englis/</loc>
+    <lastmod>2020-10-06T10:05:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diegoneves.eti.br/categories/english/</loc>
+    <lastmod>2020-10-06T10:05:15-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://diegoneves.eti.br/tags/fedora/</loc>
     <lastmod>2020-10-06T10:05:15-03:00</lastmod>
   </url>
@@ -39,6 +49,16 @@
   
   <url>
     <loc>https://diegoneves.eti.br/categories/linux/</loc>
+    <lastmod>2020-10-06T10:05:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diegoneves.eti.br/tags/network/</loc>
+    <lastmod>2020-10-06T10:05:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diegoneves.eti.br/categories/network/</loc>
     <lastmod>2020-10-06T10:05:15-03:00</lastmod>
   </url>
   
@@ -69,6 +89,11 @@
   
   <url>
     <loc>https://diegoneves.eti.br/posts/resolvendo-problemas-de-rede-do-docker-no-fedora/</loc>
+    <lastmod>2020-10-06T10:05:15-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://diegoneves.eti.br/posts/solving-docker-network-problems-in-fedora/</loc>
     <lastmod>2020-10-06T10:05:15-03:00</lastmod>
   </url>
   
