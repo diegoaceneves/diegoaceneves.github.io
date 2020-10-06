@@ -6,10 +6,15 @@
     <description>Recent content on Deploying a better new world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2020 11:22:24 -0300</lastBuildDate>
-    
-	<atom:link href="https://diegoneves.eti.br/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Tue, 06 Oct 2020 10:05:15 -0300</lastBuildDate><atom:link href="https://diegoneves.eti.br/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resolvendo Problemas De Rede Do Docker No Fedora</title>
+      <link>https://diegoneves.eti.br/posts/resolvendo-problemas-de-rede-do-docker-no-fedora/</link>
+      <pubDate>Tue, 06 Oct 2020 10:05:15 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/posts/resolvendo-problemas-de-rede-do-docker-no-fedora/</guid>
+      <description>Depois de mais de 12 anos utilizando Debian como workstation, resolvi migrar para Fedora à pouco mais de 6 meses, quando troquei o HD do notebook por um SSD, Os motivos iniciais da decisão de testar o Fedora foi o suporte nativo ao Luks para criptografar o disco durante a instalação e a vontade de aprender um pouco mais sobre como lidar no dia-a-dia com pacotes RPM e o ecossistema da Red Hat.</description>
+    </item>
     
     <item>
       <title>Curriculum</title>
@@ -46,7 +51,7 @@ Há muito tempo atrás, numa galaxia muito distante, nascia durante o estágio n
       <pubDate>Tue, 26 May 2020 11:18:40 -0300</pubDate>
       
       <guid>https://diegoneves.eti.br/curriculo/</guid>
-      <description>DIEGO FREDERICO MARQUES NEVES Dados Pessoais:  Data de nascimento: 23/03/1988 Local: Teófilo Otoni/MG E-mail: diego [AT] diegoneves [DOT] eti [DOT] br  Experiência Profissional:   COO (Chief Operations Officer) - Security Solutions - Abril 2018 - Atualmente:
+      <description>DIEGO FREDERICO MARQUES NEVES Dados Pessoais:  Data de nascimento: 23/03/1988 Local: Teófilo Otoni/MG E-mail: diego [AT] diegoneves [DOT] eti [DOT] br  Experiência Profissional:   COO (Chief Operations Officer) - Cyb3r Security Operations  - Abril 2018 - Atualmente:
  Projetar e Implantar Infraestrutura de Servidores; Coordenar equipe de Implantação; Analizar e implantar tecnologias de infraestrutura de forma segura; Verificar e manter ambiente de desenvolvimento, testes, homologação e produção; Analizar, propor e implantar tecnologias de automação de tarefas.</description>
     </item>
     

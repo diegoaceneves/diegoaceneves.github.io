@@ -6,10 +6,51 @@
     <description>Recent content in Categories on Deploying a better new world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2020 11:22:24 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2020 10:05:15 -0300</lastBuildDate><atom:link href="https://diegoneves.eti.br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://diegoneves.eti.br/categories/docker/</link>
+      <pubDate>Tue, 06 Oct 2020 10:05:15 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/categories/docker/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://diegoneves.eti.br/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fedora</title>
+      <link>https://diegoneves.eti.br/categories/fedora/</link>
+      <pubDate>Tue, 06 Oct 2020 10:05:15 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/categories/fedora/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Linux</title>
+      <link>https://diegoneves.eti.br/categories/linux/</link>
+      <pubDate>Tue, 06 Oct 2020 10:05:15 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portugês</title>
+      <link>https://diegoneves.eti.br/categories/portug%C3%AAs/</link>
+      <pubDate>Tue, 06 Oct 2020 10:05:15 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/categories/portug%C3%AAs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rede</title>
+      <link>https://diegoneves.eti.br/categories/rede/</link>
+      <pubDate>Tue, 06 Oct 2020 10:05:15 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/categories/rede/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IRPF</title>
@@ -26,15 +67,6 @@
       <pubDate>Thu, 18 Jun 2020 11:22:24 -0300</pubDate>
       
       <guid>https://diegoneves.eti.br/categories/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://diegoneves.eti.br/categories/linux/</link>
-      <pubDate>Thu, 18 Jun 2020 11:22:24 -0300</pubDate>
-      
-      <guid>https://diegoneves.eti.br/categories/linux/</guid>
       <description></description>
     </item>
     

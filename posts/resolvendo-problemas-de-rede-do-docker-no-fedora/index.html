@@ -7,7 +7,7 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <title>Linux &middot; Diego Neves</title>
+  <title>Resolvendo Problemas De Rede Do Docker No Fedora &middot; Diego Neves</title>
 
   
   <link rel="stylesheet" href="https://diegoneves.eti.br/css/poole.css">
@@ -27,7 +27,7 @@
   
   
   
-  <link href="https://diegoneves.eti.br/tags/linux/index.xml" rel="alternate" type="application/rss+xml" title="Deploying a better new world &middot; Diego Neves" />
+  
 
   <meta name="description" content="Deploying a better new world">
   <meta name="keywords" content="">
@@ -93,38 +93,50 @@
 
 
 <div class="content container">
-  <ul class="posts">
-  
-    <li><a href="https://diegoneves.eti.br/posts/resolvendo-problemas-de-rede-do-docker-no-fedora/">Resolvendo Problemas De Rede Do Docker No Fedora</a>
+  <div class="post">
+    <h1 class="post-title">Resolvendo Problemas De Rede Do Docker No Fedora</h1>
+    <span class="post-date">Oct 6, 2020 &middot; 1 minute read &middot; <a href="https://diegoneves.eti.br/posts/resolvendo-problemas-de-rede-do-docker-no-fedora/#disqus_thread">Comments</a>
     
-    &middot;
+    <br/>
     <a class="label" href="https://diegoneves.eti.br/categories/linux">Linux</a><a class="label" href="https://diegoneves.eti.br/categories/fedora">Fedora</a><a class="label" href="https://diegoneves.eti.br/categories/docker">Docker</a><a class="label" href="https://diegoneves.eti.br/categories/rede">Rede</a><a class="label" href="https://diegoneves.eti.br/categories/portug%C3%AAs">Portugês</a>
     </span>
-    &middot; <time>Oct 6, 2020</time></li>
-  
-    <li><a href="https://diegoneves.eti.br/posts/instalando-irpf2020-no-linux/">Instalando IRPF2020 No Linux</a>
-    
-    &middot;
-    <a class="label" href="https://diegoneves.eti.br/categories/linux">Linux</a><a class="label" href="https://diegoneves.eti.br/categories/java">Java</a><a class="label" href="https://diegoneves.eti.br/categories/irpf">IRPF</a>
-    </span>
-    &middot; <time>Jun 18, 2020</time></li>
-  
-    <li><a href="https://diegoneves.eti.br/posts/de-sysadmin-ao-devops-parte-1/">De Sysadmin Ao DevOps Parte 1</a>
-    
-    &middot;
-    <a class="label" href="https://diegoneves.eti.br/categories/portugues">Portugues</a><a class="label" href="https://diegoneves.eti.br/categories/sysadmin">Sysadmin</a><a class="label" href="https://diegoneves.eti.br/categories/devops">DevOps</a>
-    </span>
-    &middot; <time>Jun 4, 2020</time></li>
-  
-    <li><a href="https://diegoneves.eti.br/posts/hello-world/">Hello World</a>
-    
-    &middot;
-    <a class="label" href="https://diegoneves.eti.br/categories/portugues">Portugues</a><a class="label" href="https://diegoneves.eti.br/categories/linux">Linux</a><a class="label" href="https://diegoneves.eti.br/categories/devops">DevOps</a>
-    </span>
-    &middot; <time>May 26, 2020</time></li>
-  
-  </ul>
+    <p>Depois de mais de 12 anos utilizando <a href="http://debian.org">Debian</a> como workstation, resolvi migrar para <a href="https://fedoraproject.org/">Fedora</a> à pouco mais de 6 meses, quando troquei o HD do notebook por um SSD, Os motivos iniciais da decisão de testar o Fedora foi o suporte nativo ao Luks para criptografar o disco durante a instalação e a vontade de aprender um pouco mais sobre como lidar no dia-a-dia com pacotes RPM e o ecossistema da <a href="https://redhat.com/">Red Hat</a>.</p>
+<p>A migração foi super tranquila, como sempre gostei de utilizar o Gnome, desde a versão 2, a interface não foi um problema já que ambos utilizam o <a href="https://gnome.org">Gnome Shell</a>, e lidar com SELinux e FirewallD foram facilitados utilizando o <a href="https://cockpit-project.org/">Cockpit</a>, O unico problema encontrado foi referente ao Docker, que por algum motivo, os containeres e o build não conseguiam acesso a internet.</p>
+<p>Navegando nas listas de discussões e foruns, verifiquei que, como o Docker cria uma nova interface por onde ele faz NAT para o acesso dos containers, precisaria adicionar essa nova interface na zona &ldquo;Trusted&rdquo; no firewalld, que pode ser feito de forma simples, com o comando:</p>
+<div class="highlight"><pre style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-bash" data-lang="bash"><span style="color:#75715e"># firewall-cmd --permanent --zone=trusted --add-interface=docker0</span>
+<span style="color:#75715e"># firewall-cmd --reload</span>
+</code></pre></div><p>Ao reiniciar o docker, tanto o build quando o acesso dos containers à internet funcionou corretamente.</p>
+
+    <hr />
+    Para editar este post basta clicar <a href="https://github.com/diegoaceneves/diegoneves.eti.br/tree/master/content/posts/Resolvendo-Problemas-de-Rede-do-Docker-no-Fedora.md">aqui</a>.
+  </div>
+  <div id="disqus_thread"></div>
 </div>
+
+
+<script type="text/javascript">
+var disqus_shortname = "diegoaceneves";
+(function () {
+    var s = document.createElement('script'); s.async = true;
+    s.type = 'text/javascript';
+    s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+    (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+}());
+</script>
+
+
+
+<script type="text/javascript">
+    var disqus_shortname = "diegoaceneves";
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+
 
 </body>
 </html>

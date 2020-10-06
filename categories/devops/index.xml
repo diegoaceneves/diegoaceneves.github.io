@@ -6,11 +6,7 @@
     <description>Recent content in DevOps on Deploying a better new world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 04 Jun 2020 17:02:19 -0300</lastBuildDate>
-    
-	<atom:link href="https://diegoneves.eti.br/categories/devops/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 04 Jun 2020 17:02:19 -0300</lastBuildDate><atom:link href="https://diegoneves.eti.br/categories/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>De Sysadmin Ao DevOps Parte 1</title>
       <link>https://diegoneves.eti.br/posts/de-sysadmin-ao-devops-parte-1/</link>

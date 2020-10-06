@@ -6,10 +6,51 @@
     <description>Recent content in Tags on Deploying a better new world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 18 Jun 2020 11:22:24 -0300</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2020 10:05:15 -0300</lastBuildDate><atom:link href="https://diegoneves.eti.br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>https://diegoneves.eti.br/tags/docker/</link>
+      <pubDate>Tue, 06 Oct 2020 10:05:15 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/tags/docker/</guid>
+      <description></description>
+    </item>
     
-	<atom:link href="https://diegoneves.eti.br/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fedora</title>
+      <link>https://diegoneves.eti.br/tags/fedora/</link>
+      <pubDate>Tue, 06 Oct 2020 10:05:15 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/tags/fedora/</guid>
+      <description></description>
+    </item>
     
+    <item>
+      <title>Linux</title>
+      <link>https://diegoneves.eti.br/tags/linux/</link>
+      <pubDate>Tue, 06 Oct 2020 10:05:15 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portugês</title>
+      <link>https://diegoneves.eti.br/tags/portug%C3%AAs/</link>
+      <pubDate>Tue, 06 Oct 2020 10:05:15 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/tags/portug%C3%AAs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rede</title>
+      <link>https://diegoneves.eti.br/tags/rede/</link>
+      <pubDate>Tue, 06 Oct 2020 10:05:15 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/tags/rede/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>IRPF</title>
@@ -26,15 +67,6 @@
       <pubDate>Thu, 18 Jun 2020 11:22:24 -0300</pubDate>
       
       <guid>https://diegoneves.eti.br/tags/java/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://diegoneves.eti.br/tags/linux/</link>
-      <pubDate>Thu, 18 Jun 2020 11:22:24 -0300</pubDate>
-      
-      <guid>https://diegoneves.eti.br/tags/linux/</guid>
       <description></description>
     </item>
     
