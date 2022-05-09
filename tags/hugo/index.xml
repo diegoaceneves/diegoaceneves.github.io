@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on Deploying a better new world</title>
+    <link>https://diegoneves.eti.br/tags/hugo/</link>
+    <description>Recent content in Hugo on Deploying a better new world</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 26 May 2020 08:29:18 -0300</lastBuildDate><atom:link href="https://diegoneves.eti.br/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>https://diegoneves.eti.br/posts/hello-world/</link>
+      <pubDate>Tue, 26 May 2020 08:29:18 -0300</pubDate>
+      
+      <guid>https://diegoneves.eti.br/posts/hello-world/</guid>
+      <description>Sim, esse é um novo site. Eu mantinha um wordpress, para escrever, e como não estava escrevendo a muito tempo, perdia o tempo mantendo o wordpress atualizado e seguro em vez de escrever algo. Resolvi dar uma pesquisada em alguns geradores de site estático e encontrei o Hugo e resolvi testar baseado no site do Gomex. Agora como não vou precisar mais manter a plataforma, prometo tentar escrever mais, falando sempre sobre Software Livre, Linux e sobre DevOps que é o que tenho estudado atualmente.</description>
+    </item>
+    
+  </channel>
+</rss>
