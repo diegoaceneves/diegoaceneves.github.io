@@ -1,0 +1,82 @@
+baseURL = "https://diegoneves.eti.br"
+languageCode = "en-us"
+title = "Deploying a better new world"
+theme = "hyde-x"
+gravatarHash = "4ccb418dfbd778da7d91e1d619247917"
+canonifyurls = true
+paginate = 10
+DefaultContentLanguage = "en"
+DefaultContentLanguageInSubdir = true
+RegularPages = "posts"
+disqusShortname = "diegoaceneves"
+
+[author]
+  name = "Diego Neves"
+  homepage = "https://diegoneves.eti.br"
+
+[permalinks]
+  post = "/:year/:month/:day/:title"
+
+[taxonomies]
+  tag = "tags"
+  topic = "categories"
+
+[params]
+  truncate = "true"
+  copyright = "Some rights reserved, Copyright 2012"
+  defaultDescription = "Deploying a better new world"
+  theme = "theme-base-07"
+  googleAnalytics = "UA-167610562-1"
+  github = "https://github.com/diegoaceneves"
+  linkedin = "https://www.linkedin.com/in/diegoaceneves/"
+  instagram = "https://instagram.com/diegoaceneves/"
+  facebook = "https://fb.me/diegoaceneves"
+  twitter = "https://twitter.com/diegoaceneves"
+  telegram = "https://t.me/diegoaceneves"
+  githubrepo = "diegoaceneves/diegoneves.eti.br"
+  rss = "true"
+
+  [menu]
+    # Shown in the side menu.
+    [[menu.main]]
+      name = "Home"
+      pre = "<i class='fa fa-home fa-fw'></i>"
+      weight = 1
+      identifier = "home"
+      url = "/"
+    [[menu.main]]
+      name = "Posts"
+      pre = "<i class='fa fa-list fa-fw'></i>"
+      weight = 2
+      identifier = "posts"
+      url = "/posts"
+    [[menu.main]]
+      name = "Portugês"
+      pre = "<i class='fa fa-globe fa-fw'></i>"
+      weight = 3
+      identifier = "Portuges"
+      url = "/categories/portugês/"
+    [[menu.main]]
+      name = "English"
+      pre = "<i class='fa fa-globe fa-fw'></i>"
+      weight = 4
+      identifier = "English"
+      url = "/categories/english/"
+    [[menu.main]]
+      name = "About"
+      pre = "<i class='fa fa-user fa-fw'></i>"
+      weight = 7
+      identifier = "about"
+      url = "/about/"
+    [[menu.main]]
+      name = "Curriculum en_US"
+      pre = "<i class='fa fa-list fa-fw'></i>"
+      weight = 10
+      identifier = "curriculum"
+      url = "/curriculum"
+    [[menu.main]]
+      name = "Curriculo pt_BR"
+      pre = "<i class='fa fa-list fa-fw'></i>"
+      weight = 11
+      identifier = "curriculo"
+      url = "/curriculo"
