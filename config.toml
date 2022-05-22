@@ -1,7 +1,7 @@
 baseURL = "https://diegoneves.eti.br"
 languageCode = "en-us"
 title = "Deploying a better new world"
-theme = "hyde-x"
+theme = "hydex"
 gravatarHash = "4ccb418dfbd778da7d91e1d619247917"
 canonifyurls = true
 paginate = 10
@@ -80,3 +80,4 @@ disqusShortname = "diegoaceneves"
       weight = 11
       identifier = "curriculo"
       url = "/curriculo"
+
