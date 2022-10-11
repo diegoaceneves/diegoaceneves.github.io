@@ -73,6 +73,7 @@ draft: false
 
 ## Certifications
 
+* [AWS Certified Cloud Practitioner](https://www.credly.com/badges/c1deb05a-ee7d-4e10-bcfe-87fdb6933acc) October 2022.
 * [GitLab Certified Associate](https://api.badgr.io/public/assertions/6wPbNq7dSv6yhg8GdCBl8A?identity__email=diego%40diegoneves.eti.br) April 2021.
 
 ## IT Skills
