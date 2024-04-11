@@ -14,7 +14,7 @@ draft: false
 
 ## Experiência Profissional
 
-* DevOps Engineer - [Iteris](https://www.iteris.com.br/) – Maio 2008 – Atualmente:
+* DevOps Engineer - [Iteris](https://www.iteris.com.br/) – Maio 2021 – Atualmente:
 
 * Consultor de Tecnologia – Maio 2008 – Maio 2021:
   * Sysadmin;
